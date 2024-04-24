@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789698753010",
+    "project_id": "shreya-shraddha-project",
+    "storage_bucket": "shreya-shraddha-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789698753010:android:ae10ddccd9c10ea774fb6b",
+        "android_client_info": {
+          "package_name": "com.example.ss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4669OFjKdzZ5atTnZ_uWTvDCPf1hDK2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
